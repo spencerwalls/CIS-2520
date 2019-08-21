@@ -15,7 +15,7 @@ Below contains sample output from compiling and then running each executable. Fo
 
 For q2, 'q2' is simply entered at the command line and the program is successfully executed. 
 
-note: this sample output was generated in a Windows' terminal.
+note: this sample output was generated in a Windows terminal.
 
 *****************************************************************
 
